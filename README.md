@@ -2,7 +2,7 @@
 
 ### 12-track sequencer based on the Lorenz system, built with Max and gen~
 
-The Lorenz system is a system of differential equations that, under certain parameter values and initial conditions, yields chaotic solutions (known as the Lorenz attractor).
+The Lorenz system is a system of differential equations that, under certain parameter values and initial conditions, yields chaotic solutions (known as Lorenz attractor).
 
 In this patch, starting from a three state variable Lorenz system, the variables are plotted on the three planes xy, xz, yz.
 
